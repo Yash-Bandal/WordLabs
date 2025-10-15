@@ -10,33 +10,11 @@ It allows users to perform a wide range of operations on sentences and words —
 
 ## Features
 
-### Text Formatting
-- Apply styles such as **bold**, *italic*, underline, strikethrough, and inline code.  
-- Copy formatted text directly to the clipboard.
-
-### Case Conversion
-- Convert text to uppercase, lowercase, title case, sentence case, or capitalize each word.
-
-### Encoding / Decoding
-- Base64 encoding and decoding  
-- URL encoding and decoding  
-- HTML entity encoding and decoding
-
-### Text Cleanup
-- Remove extra spaces  
-- Remove numbers, symbols, or punctuation  
-- Count words, characters, and lines
-
-### Additional Utilities
-- Reverse words or sentences  
-- Sort words alphabetically  
-- Find and replace text  
-- Word frequency analysis (optional feature)
-
-### User Interface
-- Clean and minimal design built with Tailwind CSS  
-- Responsive layout for all devices  
-- Light and dark mode support
+- **Text Formatting & Case Conversion** (bold, italic, uppercase, lowercase, etc.)  
+- **Encoding/Decoding** (Base64, URL, HTML entities)  
+- **Text Cleanup** (remove spaces, symbols, count words/lines)  
+- **Utilities** (reverse, sort, find & replace, word frequency)  
+- **Responsive UI** (light/dark mode, clean Tailwind CSS design)
 
 <br>
 
@@ -90,6 +68,9 @@ WordLabs/
 │   └── main.jsx                # Application entry point
 └── README.md                   # Project documentation
 ```
+
+### Preview
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/505923f8-69e6-43e4-973c-488f48a1891d" />
 
 
 
