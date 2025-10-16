@@ -1,4 +1,4 @@
-# WordLabs
+# WordLabs 
 
 WordLabs is a web-based text utility application built with React.  
 It allows users to perform a wide range of operations on sentences and words — including text formatting, encoding/decoding, and case transformations — in a fast and user-friendly interface.
